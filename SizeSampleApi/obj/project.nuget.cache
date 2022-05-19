@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0PQwNjPoQUWVMo36Aj9JRLnyW3hwFzV0vHd+6YUo78X6pS4PXdSb5cC99a196iZsD+NYenpyxJPRuN6pQa8F6A==",
+  "success": true,
+  "projectFilePath": "/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/SizeSampleApi.csproj",
+  "expectedPackageFiles": [
+    "/home/azizul/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.exe
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.deps.json
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.runtimeconfig.json
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.runtimeconfig.dev.json
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.dll
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.pdb
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.csprojAssemblyReference.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.AssemblyInfoInputs.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.AssemblyInfo.cs
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.RazorTargetAssemblyInfo.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/staticwebassets/SizeSampleApi.StaticWebAssets.Manifest.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/staticwebassets/SizeSampleApi.StaticWebAssets.xml
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.dll
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.pdb
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.genruntimeconfig.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.csproj.CoreCompileInputs.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.csproj.CopyComplete
+C:/Users/Sabbir Ahmed/source/repos/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/libman.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/appsettings.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/libman.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.deps.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.runtimeconfig.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.runtimeconfig.dev.json
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.dll
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/SizeSampleApi.pdb
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.csprojAssemblyReference.cache
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.AssemblyInfoInputs.cache
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.AssemblyInfo.cs
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.csproj.CoreCompileInputs.cache
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.MvcApplicationPartsAssemblyInfo.cache
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.RazorTargetAssemblyInfo.cache
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.csproj.CopyComplete
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/staticwebassets/SizeSampleApi.StaticWebAssets.Manifest.cache
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/staticwebassets/SizeSampleApi.StaticWebAssets.xml
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.dll
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.pdb
+/media/azizul/ec02f49f-8040-4aab-855a-b13786cf7fe9/personal/SizeSampleApi/SizeSampleApi/obj/Debug/netcoreapp3.1/SizeSampleApi.genruntimeconfig.cache
